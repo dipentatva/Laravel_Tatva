@@ -1,0 +1,20 @@
+{
+	"label": {
+		"email_address": "Email address",
+		"password": "Password",
+		"lost_password": "Lost your password?",
+		"powered_by": "Powered by",
+		"login": "Login",
+		"forgot_password": "Forgot password",
+		"forgot_password_message": "To reset your password, enter the email address you use to login. A link will be emailed to this address which will let you reset your password.",
+		"reset_password_button": "Reset my password",
+		"new_password": "New password",
+		"confirm_new_password": "Confirm new password",
+		"change_password": "Change password",
+		"new_password_message": "Please enter a new password in the fields below.",
+		"logout": "Logout",
+		"apply": "Apply",
+		"from": "From",
+		"until": "Until"
+	}
+}
